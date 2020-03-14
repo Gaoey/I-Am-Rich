@@ -32,3 +32,4 @@ class IAmRichTests: XCTestCase {
     }
 
 }
+ 
